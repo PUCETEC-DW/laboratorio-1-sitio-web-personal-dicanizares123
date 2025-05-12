@@ -1,8 +1,8 @@
+
 /* Estilos generales */
 body {
     margin: 0;
-    padding-top: 70px; /* Añadir padding-top para compensar la nav fija */
-    line-height: 1.6;
+    padding-top: 70px; 
     max-width: 1200px;
     margin: 0 auto;
     background-color: #f5f5f5;
@@ -67,6 +67,5 @@ p {
     border-radius: 50%;
     margin: 20px 0; 
     display: block;
-    margin-right: center;
     margin-top: 20px;
 }
