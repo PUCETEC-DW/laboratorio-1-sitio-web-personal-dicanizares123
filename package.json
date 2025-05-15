@@ -1,0 +1,13 @@
+{
+  "homepage": "https://dicanizares123.github.io/pucetec-dw-classroom-2453-laboratorio-1-sitio-web-personal-webPersonal/",
+  
+  
+  "scripts": {
+    "predeploy": "echo Predeploy...",
+    "deploy": "gh-pages -d src"
+    
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
